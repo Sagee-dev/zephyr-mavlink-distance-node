@@ -1,0 +1,10 @@
+build/
+.west/
+*.elf
+*.bin
+*.map
+*.o
+*.d
+__pycache__/
+*.pyc
+Doc/
